@@ -1,0 +1,6 @@
+build-base=0.5-r3
+clang=19.1.4-r0
+argp-standalone=1.5.0-r1
+gcc-arm-none-eabi=14.2.0-r0
+newlib-arm-none-eabi=4.4.0.20231231-r0
+binutils-arm-none-eabi=2.42-r1
